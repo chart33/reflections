@@ -1,0 +1,54 @@
+how did viewing a diff between two files help you see the bug that was introduced?
+
+answer:
+using the diff command (or CF, in command line) helps you to pinpoint 
+changes that occur between the first file and second file
+you can pass any two files as arguments for comparison
+diff goes through the files line by line
+and when each line is compared, it will return whether the line was
+added or subtracted relative to the original version
+
+how could having acces to the whole version history of a file make you a more efficient programmer in the long term?
+
+by having access to the entire history of a file
+you can easily compare outcomes to see if your new code is a real improvement
+you can easily troublshoot code by tracing back to when issues started
+you can avoid wasting time by trying things you already did once
+you can easily try different things without losing your place and pick the one htat works the best
+you can safely have a working version to revert to if your current edits break the code
+
+what are the pros and cons of manual commits versus autosave?
+
+pros
+more control
+don't have many useless versions
+can be linked to logical/intuitive updates
+should always build
+
+cons
+open to user error
+...that's really it.
+
+Why do you think some VCS like git allow saving multiple files in one commit while others keep it separate?
+
+files may be related
+this allows you to have a snapshot of a working project at a point in time
+in a separate system like google docs, files are certainly not related
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log will display a full history of commits with IDs
+
+by using git diff, you can compare two of these commits
+comparison will highlight LOC that were added or deleted
+
+How might version control make you more confident about making changes that might break something?
+
+With version control, you can always go back to a point where things work!
+it also alows you to easily compare and troubleshoot
+not eyeballing hundreds of LOC!
+
+How do you want to use git?
+
+I would like to try using it for my Software Development Processes 
+Class to share developing projects with my grouplates
