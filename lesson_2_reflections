@@ -1,0 +1,8 @@
+What happens when you initialize a repo?  Why do you need to do it?
+initializing repo creats a .git file for the directory
+the .git has all meta data, storing commits, etc.
+
+How is the staging area different from the wokring directory and the repo?
+The staging area contains files that will be included in next commit
+the wd contains all files, including untracked files
+the repository contains all files, and the .git hidden file of meta data
