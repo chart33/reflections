@@ -13,3 +13,9 @@ Only have one file in there at a time!
 what are some situations when branches would be helpful in organizing history?
 If you are making a choice in dev and want to go down  path
 this allows to you preserve a conventional version in tandem
+
+What is the result of merging branches?  Why is is represented like this?
+when you merge two branches, you integrate changes 
+branches track to common parent, like tree branches
+merged branches remember each of their two direct parents
+and also their common ancestor
