@@ -19,3 +19,8 @@ when you merge two branches, you integrate changes
 branches track to common parent, like tree branches
 merged branches remember each of their two direct parents
 and also their common ancestor
+
+What are the pros and cons of Git's auto merging vs. always manual merging?
+Pro: if no conflicts, very easy.  fast.
+Con: may integrate changes you don't want
+pro: tunes to throw conflict if same parts of code are changed.  safe.
