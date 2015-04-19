@@ -6,3 +6,8 @@ In addition, you'll always have a backup of your work stored in the cloud in cas
 Why might you want always to pull changes manually rather than have Git automatically keep up to date with your remote repo?
 Bu pulling manually, you control when features are added so that you can make sure they are complete
 it also allows you a chance to stage and try changes before updating
+
+Describe the differences between forks, clones, and branches
+FORKS- give credit to original developer.  exist only on git hub
+CLONES- create an exact cope of repo.  Good for collaborators.
+BRANCHES- exist within project to indicate different direction you went in terms of dev.
