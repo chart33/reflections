@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches
 FORKS- give credit to original developer.  exist only on git hub
 CLONES- create an exact cope of repo.  Good for collaborators.
 BRANCHES- exist within project to indicate different direction you went in terms of dev.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This allows you to compare states and determine what is going on in the project.
+This also gives you a safe version locally if another contributor does something to the shared repo
