@@ -3,3 +3,6 @@ Using a remote repo allows you to work on many machines with easy sharing
 It also facilitates collaboration by allowing teammates to push requests from othe machines easily
 In addition, you'll always have a backup of your work stored in the cloud in case of emergency
 
+Why might you want always to pull changes manually rather than have Git automatically keep up to date with your remote repo?
+Bu pulling manually, you control when features are added so that you can make sure they are complete
+it also allows you a chance to stage and try changes before updating
