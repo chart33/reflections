@@ -1,0 +1,5 @@
+Why would you want to use a remote repository rather than working locally?
+Using a remote repo allows you to work on many machines with easy sharing
+It also facilitates collaboration by allowing teammates to push requests from othe machines easily
+In addition, you'll always have a backup of your work stored in the cloud in case of emergency
+
