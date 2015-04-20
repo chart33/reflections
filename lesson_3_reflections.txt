@@ -15,3 +15,8 @@ BRANCHES- exist within project to indicate different direction you went in terms
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This allows you to compare states and determine what is going on in the project.
 This also gives you a safe version locally if another contributor does something to the shared repo
+
+How would you collaborate without using Git or Github?  What would be easier?  What would be harder?
+using git would be hahrder unless you have some kind of hosted file
+using github makes it much easier to collaborate with others.  
+All they need is github account and and internet connection
